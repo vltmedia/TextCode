@@ -1,0 +1,1 @@
+pyinstaller --add-data "wordsFreq.json;." --add-data "style.qss;." --icon=favicon.ico  --name TextCode main.py
