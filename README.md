@@ -1,5 +1,5 @@
 # Description
-Encode Text to an image with controls for image size and whether to clone the text if the image size is bigger than the word count.
+Encode Text to an image with controls for image size and whether to clone the text if the image size is bigger than the word count. Words are based on frequency used. [Dataset from Here](https://github.com/dwyl/english-words)
 
 ![textToImageEncoder.jpg](textToImageEncoder.jpg)
 
